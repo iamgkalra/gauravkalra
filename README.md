@@ -2,28 +2,29 @@
 (415) 606-3592 ▪ gkalra2002@yahoo.com ▪ https://www.linkedin.com/in/gaurav-kalra-72960b3
 
 # Interests
-Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Client-Server 
-Architecture, Multi-Threading, Databases
+Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Client-Server Architecture, Multi-Threading, Databases
 
 # Work Experience
-▪ Software Architect – Oracle Inc., Pleasanton (Nov 2008 – Presently)
-▪ Sr. Software Engineer - Avolent Inc., San Francisco (Oct 2007 – Sep 2008)
-▪ Lead Engineering - Globallogic Inc, Vienna (Oct 2004 – Sep 2007)
-▪ Member Technical Staff - Sun Microsystems, Bangalore (Jul 2004 – Sep 2004)
-▪ Software Engineer - Infosys Technologies Ltd., Bangalore (Jan 2003 – Jun 2004)
-▪ Software Developer Trainee - Tele Atlas. Noida (World leader in Digital Map solutions) (Sep 2002 – Dec 2002)
+- *Software Architect* – **Oracle Inc.**, Pleasanton (Nov 2008 – Presently)
+- *Sr. Software Engineer* - **Avolent Inc.**, San Francisco (Oct 2007 – Sep 2008)
+- *Lead Engineering* - **Globallogic Inc**, Vienna (Oct 2004 – Sep 2007)
+- *Member Technical Staff* - **Sun Microsystems**, Bangalore (Jul 2004 – Sep 2004)
+- *Software Engineer* - **Infosys Technologies Ltd.**, Bangalore (Jan 2003 – Jun 2004)
+- *Software Developer Trainee* - **Tele Atlas. Noida (World leader in Digital Map solutions)** (Sep 2002 – Dec 2002)
 
 # Education
-MCA (1999 – 2002) (Percentage: 80.5%, GPA: 4.0/5.0)
+- **MCA (1999 – 2002) (Percentage: 80.5%, GPA: 4.0/5.0)**
 University School of Studies (Main Campus), GGS Indraprastha University, Delhi
-B.Sc. (G) Computer Science (1996 – 1999) (Percentage: 64.5%)
+
+- **B.Sc. (G) Computer Science (1996 – 1999) (Percentage: 64.5%)**
 Maharaja Agrasen College, Delhi University, Delhi
-Diploma in Network centered computing from NIIT (Grade: A)
-Certifications
-Sun Certified Developer for the Java 2 Platform (SCJD) (score: 147/155 ≈ 95%)
-Sun Certified Programmer for the Java 2 Platform (SCJP) (score: 54/59 ≈ 91%)
-Certified by Brainbench in C (score: 74%), Java 2 (score: 82%), Java 2 Non GUI 
-(score: 83%)
+
+- **Diploma in Network centered computing from NIIT (Grade: A)**
+
+# Certifications
+- **Sun Certified Developer for the Java 2 Platform (SCJD) (score: 147/155 ≈ 95%)**
+- **Sun Certified Programmer for the Java 2 Platform (SCJP) (score: 54/59 ≈ 91%)**
+- **Certified by Brainbench in C (score: 74%), Java 2 (score: 82%), Java 2 Non GUI (score: 83%)**
 
 # Technical/Functional Skills
 Operating Systems/Platforms Windows, Unix, Linux
