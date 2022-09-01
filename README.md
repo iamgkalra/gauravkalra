@@ -1,17 +1,19 @@
-# gauravkalra
+# Gaurav Kalra
 (415) 606-3592 ▪ gkalra2002@yahoo.com ▪ https://www.linkedin.com/in/gaurav-kalra-72960b3
-Interests
+
+# Interests
 Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Client-Server 
 Architecture, Multi-Threading, Databases
-Work Experience
-▪ Principal Software Engineer – Oracle Inc., Pleasanton (Nov 2008 – Presently)
+
+# Work Experience
+▪ Software Architect – Oracle Inc., Pleasanton (Nov 2008 – Presently)
 ▪ Sr. Software Engineer - Avolent Inc., San Francisco (Oct 2007 – Sep 2008)
 ▪ Lead Engineering - Globallogic Inc, Vienna (Oct 2004 – Sep 2007)
 ▪ Member Technical Staff - Sun Microsystems, Bangalore (Jul 2004 – Sep 2004)
 ▪ Software Engineer - Infosys Technologies Ltd., Bangalore (Jan 2003 – Jun 2004)
-▪ Software Developer Trainee - Tele Atlas. Noida (World leader in Digital Map solutions)
-(Sep 2002 – Dec 2002)
-Education
+▪ Software Developer Trainee - Tele Atlas. Noida (World leader in Digital Map solutions) (Sep 2002 – Dec 2002)
+
+# Education
 MCA (1999 – 2002) (Percentage: 80.5%, GPA: 4.0/5.0)
 University School of Studies (Main Campus), GGS Indraprastha University, Delhi
 B.Sc. (G) Computer Science (1996 – 1999) (Percentage: 64.5%)
@@ -22,7 +24,8 @@ Sun Certified Developer for the Java 2 Platform (SCJD) (score: 147/155 ≈ 95%)
 Sun Certified Programmer for the Java 2 Platform (SCJP) (score: 54/59 ≈ 91%)
 Certified by Brainbench in C (score: 74%), Java 2 (score: 82%), Java 2 Non GUI 
 (score: 83%)
-Technical/Functional Skills
+
+# Technical/Functional Skills
 Operating Systems/Platforms Windows, Unix, Linux
 Programming Languages Java, C, C++, Pascal
 Scripting Languages Unix Shell Scripting, Perl, PHP, JavaScript, AJAX, HTML, CSS
@@ -60,8 +63,9 @@ Apache Tomcat Web Server, JBoss Application Server, Oracle
 BEA Weblogic Application Server
 CVS, SVN, Perforce, GIT
 Banking and Financial Sector
-Projects
-Oracle Inc, San Francisco, CA, USA
+
+# Projects
+## Oracle Inc, San Francisco, CA, USA
 Principal Software Engineer (Nov 2008 – Till Date)
 Project: Oracle Utilities Cloud Platform
 Description:
@@ -86,7 +90,8 @@ Team Size: 20 + 40 (offshore)
 Technologies:
 Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Servlets, 
 YAML, XML, AJAX, JavaScript, JUnit, Oracle Cloud DB, Eclipse, Linux, GIT, Kibana.
-Oracle Inc, San Francisco, CA, USA
+
+## Oracle Inc, San Francisco, CA, USA
 Principal Software Engineer (Nov 2008 – Till Date)
 Project: Oracle Utilities Framework
 Description:
@@ -113,7 +118,8 @@ Team Size: 10 + 100 (offshore)
 Technologies:
 Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, 
 JUnit, Oracle 12C, Windows XP, Eclipse, Perforce.
-Oracle Inc, San Francisco, CA, USA
+
+## Oracle Inc, San Francisco, CA, USA
 Principal Software Engineer (Nov 2008 – Till Date) 
 Project: Oracle Utilities Mobile Workforce Management
 Description:
@@ -134,7 +140,8 @@ Team Size: 10 + 100 (offshore)
 Technologies:
 Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, 
 JUnit, Oracle 10g, Windows XP, Eclipse, Perforce.
-Avolent Inc, San Francisco, CA, USA
+
+## Avolent Inc, San Francisco, CA, USA
 Sr. Software Engineer (Oct 2007 – Sep 2008)
 Project: Avolent (formerly Bizcast)
 Description:
@@ -158,7 +165,8 @@ Technologies:
 Java Enterprise (Proprietary Framework and Architecture), JDBC, Servlets, Ant, XML/XSL, AJAX,
 JavaScript, JUnit, JBoss, Tomcat, Oracle 10g, MS SQL 2005, DB2, Windows XP, Solaris, UNIX,
 Eclipse, Perforce.
-Globallogic Inc, Vienna, USA
+
+## Globallogic Inc, Vienna, USA
 Lead Engineering (Oct 2004 – Sep 2007)
 Project: Avolent (formerly Bizcast) The Financial Relationship Management Product (FRM)
 Description:
@@ -178,7 +186,8 @@ Technologies:
 Java Enterprise (Proprietary Framework and Architecture), JDBC, Servlets, Ant, XML/XSL, AJAX,
 JavaScript, JUnit, JBoss, Tomcat, Oracle 10g, MS SQL 2005, DB2, Windows XP, Solaris, UNIX,
 Eclipse, Perforce.
-Sun Microsystems, Bangalore, India 
+
+## Sun Microsystems, Bangalore, India 
 Member Technical Staff (Jul 2004 – Sep 2004) 
 Project: Sun Java Enterprise System 
 Description:
@@ -195,7 +204,8 @@ Team Size: 12
 Technologies:
 Java, Proprietary Packaging Framework, Ant, XML, Sun One App Server, Windows XP, Solaris, 
 Linux, Netbeans, CVS, Sun Java Enterprise Studio.
-Infosys Technologies Ltd. Bangalore, India Software Engineer (Jan 2003 – Jun 2004) 
+
+## Infosys Technologies Ltd. Bangalore, India Software Engineer (Jan 2003 – Jun 2004) 
 Project: ProjectOne
 Description:
 The ProjectOne application is utilized by Citi Bank worldwide for maintenance and generation of customer
@@ -210,7 +220,8 @@ Team Size: 40+
 Client: Citibank International Ltd.
 Technologies:
 EJB, JSP, Servlets, Struts, Ant, XML, BEA Weblogic Application Server, 6.3, Oracle.
-Tele Atlas (India) Pvt. Ltd. Noida, India Software
+
+## Tele Atlas (India) Pvt. Ltd. Noida, India Software
 Developer Trainee (Sep 2002 – Dec 2002) Project: 
 REACT
 Description:
@@ -225,8 +236,9 @@ Duration: Sep 2002 – Dec 2002
 Team Size: 6
 Technologies:
 Java 2, RMI, JDBC, JSP, Informix, Netscape Iplanet Server, CVS.
-Projects developed during academic period
-R Systems International Limited, Noida, India
+
+## Projects developed during academic period
+### R Systems International Limited, Noida, India
 Software Trainee (Jan 2002 – Jul 2002)
 Project: Demonstrator – A System for Platform Independent Demonstration over a Network
 Description:
@@ -242,7 +254,8 @@ Duration: Jan 2002 – Jul 2002
 Team Size: 2
 Technologies:
 Java 2, RMI, JDBC, Swing, Oracle.
-Sun Microsystems Java 2 Certification Developer Assignment. 
+
+### Sun Microsystems Java 2 Certification Developer Assignment. 
 Project: Fly By Night Services
 Description:
 Fly By Night Services is a 3-tiered application, designed to be run on any platform that supports the Java 2
@@ -255,11 +268,13 @@ Responsibilities:
 Team Size: 1
 Technologies:
 Java 2, RMI, JDBC, Swing.
-Achievements and Awards
+
+# Achievements and Awards
 ▪ Stood second in the Day Programming competition held at infoXpression 2001, Annual
 National Student’s IT meet, organized by School Of Information Technology, GGS
 Indraprastha University, Delhi, India.
-Extra-Curricular Activities
+
+# Extra-Curricular Activities
 ▪ Modding retro game consoles for RGB and various other mods.
 ▪ Tinkering and creating small projects for my daughter on Raspberry Pi and Arduino.
 ▪ Assembling and flying electric RC Helicopters. Presently researching on the Nitro models.
