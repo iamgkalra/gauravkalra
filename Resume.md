@@ -84,7 +84,7 @@ Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Cli
 
 # Projects
 ### Oracle Inc, San Francisco, CA, USA
-*Principal Software Engineer (Nov 2008 – Till Date)*
+*Software Architect (Nov 2008 – Till Date)*
 
 **Project:** Oracle Utilities Cloud Platform
 
