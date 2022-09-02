@@ -109,190 +109,195 @@ The Oracle Utilities Cloud Platform is responsible for providing an infrastructu
 Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Servlets, YAML, XML, AJAX, JavaScript, JUnit, Oracle Cloud DB, Eclipse, Linux, GIT, Kibana.
 
 ### Oracle Inc, San Francisco, CA, USA
-Principal Software Engineer (Nov 2008 – Till Date)
-Project: Oracle Utilities Framework
-Description:
-The Oracle Utilities Framework team provides the framework, tools, and technical leadership for the Tax 
-and Utilities Global Business Unit on which the following products are built: Customer Care & Billing, 
-Enterprise Taxation Management, Mobile Workforce Management and Meter Data Management. The 
-framework application is rich in both the server-side J2EE layer and a robust AJAX front-end.
-Responsibilities:
-▪ Analyze, design, develop, troubleshoot and debug software programs for commercial
-end user applications.
-▪ Specify, design and implement modest changes to existing software architecture.
-▪ Adapt existing premise architecture to deployment in cloud for highly scalable, distributed
-components that are fault taulerant and maintainable via CI/CD pipelines
-▪ Build new products and development tools.
-Key Accomplishments:
-▪ Part of a small Cobol to Java Translation team responsible for translating 10 million
-lines of cobol code and single handedly wrote the parser for processing and
-translating Cobol records and copybooks to corresponding java storage classes.
-▪ Worked on various stages of Cobol to Java Translation to help in preprocessing,
-instrumenting, gathering, storing and verifying cobol and the corresponding translated
-cobol to java code execution line by line.
-Duration: Sep 2010 – Till Date 
-Team Size: 10 + 100 (offshore)
-Technologies:
-Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, 
-JUnit, Oracle 12C, Windows XP, Eclipse, Perforce.
+*Principal Software Engineer (Nov 2008 – Till Date)*
+
+**Project:** Oracle Utilities Framework
+
+**Description:**
+The Oracle Utilities Framework team provides the framework, tools, and technical leadership for the Tax and Utilities Global Business Unit on which the following products are built: Customer Care & Billing, Enterprise Taxation Management, Mobile Workforce Management and Meter Data Management. The framework application is rich in both the server-side J2EE layer and a robust AJAX front-end.
+
+**Responsibilities:**
+- Analyze, design, develop, troubleshoot and debug software programs for commercial end user applications.
+- Specify, design and implement modest changes to existing software architecture.
+- Adapt existing premise architecture to deployment in cloud for highly scalable, distributed components that are fault taulerant and maintainable via CI/CD pipelines
+- Build new products and development tools.
+
+**Key Accomplishments:**
+- Part of a small Cobol to Java Translation team responsible for translating 10 million lines of cobol code and single handedly wrote the parser for processing and translating Cobol records and copybooks to corresponding java storage classes.
+- Worked on various stages of Cobol to Java Translation to help in preprocessing, instrumenting, gathering, storing and verifying cobol and the corresponding translated cobol to java code execution line by line.
+
+**Duration:** Sep 2010 – Till Date 
+
+**Team Size:** 10 + 100 (offshore)
+
+**Technologies:**
+Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, JUnit, Oracle 12C, Windows XP, Eclipse, Perforce.
 
 ### Oracle Inc, San Francisco, CA, USA
-Principal Software Engineer (Nov 2008 – Till Date) 
-Project: Oracle Utilities Mobile Workforce Management
-Description:
-Oracle Utilities Mobile Workforce Management (formerly SPL Mobile Workforce Management) is an
-integrated, end-to-end solution that guarantees service availability and automates field operations via
-state-of-the-market dispatch, scheduling and routing. Mobile Workforce Management optimizes the
-service chain, improves workforce productivity and reduces operating expenses while eliminating missed
-appointments, service backlogs and overtime costs.
-Responsibilities:
-▪ Act as the designer for the Dispatching framework and interface.
-▪ Involved in integrating utilities framework with Oracle ADF.
-▪ Working and coordinating with the offshore team to develop the required functionality.
-Key Accomplishments:
-▪ Single handedly wrote a complete Gantt chart component from scratch in 3 weeks for
-monitoring and dispatching tasks created for mobile workforce.
-Duration: Nov 2008 – Aug 2010
-Team Size: 10 + 100 (offshore)
-Technologies:
-Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, 
-JUnit, Oracle 10g, Windows XP, Eclipse, Perforce.
+*Principal Software Engineer (Nov 2008 – Till Date)* 
+
+**Project:** Oracle Utilities Mobile Workforce Management
+
+**Description:**
+Oracle Utilities Mobile Workforce Management (formerly SPL Mobile Workforce Management) is an integrated, end-to-end solution that guarantees service availability and automates field operations via state-of-the-market dispatch, scheduling and routing. Mobile Workforce Management optimizes the service chain, improves workforce productivity and reduces operating expenses while eliminating missed appointments, service backlogs and overtime costs.
+
+**Responsibilities:**
+- Act as the designer for the Dispatching framework and interface.
+- Involved in integrating utilities framework with Oracle ADF.
+- Working and coordinating with the offshore team to develop the required functionality.
+
+**Key Accomplishments:**
+- Single handedly wrote a complete Gantt chart component from scratch in 3 weeks for monitoring and dispatching tasks created for mobile workforce.
+
+**Duration:** Nov 2008 – Aug 2010
+
+**Team Size:** 10 + 100 (offshore)
+
+**Technologies:**
+Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, JUnit, Oracle 10g, Windows XP, Eclipse, Perforce.
 
 ### Avolent Inc, San Francisco, CA, USA
-Sr. Software Engineer (Oct 2007 – Sep 2008)
-Project: Avolent (formerly Bizcast)
-Description:
-Avolent is a leading provider of a suite of best-of-breed application software packages for self-service
-eBilling and eSettlement on either a Software-as-a-Service (SaaS) or On Premise model. The AVOLENT
-solution transforms an organization's paper invoices and manually intensive billing and settlement process
-into a web-based self-service electronic process that drives higher customer loyalty, enhances customer
-satisfaction, and improves operational efficiencies, while also preserving our natural resources.
-Responsibilities:
-▪ Act as Lead for offshore Team members.
-▪ Worked on Page Composer, Multi Invoice Types, Advance Consolidation, Polymorphic 
-Domain Objects, Dynamic Grouping, and Extract.
-▪ Involved in Requirement Gathering, Design Discussions with Architecture team and 
-Implementation for the above features.
-▪ Acted as Subject Matter Expert for the above features.
-▪ Implemented new features through complete Product Development lifecycle.
-Duration: Oct 2007 – Till Date
-Team Size: 25
-Clients: HP, Dell, Xerox, BCBS Florida, Sun Trust, Health Partners
-Technologies:
-Java Enterprise (Proprietary Framework and Architecture), JDBC, Servlets, Ant, XML/XSL, AJAX,
-JavaScript, JUnit, JBoss, Tomcat, Oracle 10g, MS SQL 2005, DB2, Windows XP, Solaris, UNIX,
-Eclipse, Perforce.
+*Sr. Software Engineer (Oct 2007 – Sep 2008)*
+
+**Project:** Avolent (formerly Bizcast)
+
+**Description:**
+Avolent is a leading provider of a suite of best-of-breed application software packages for self-service eBilling and eSettlement on either a Software-as-a-Service (SaaS) or On Premise model. The AVOLENT solution transforms an organization's paper invoices and manually intensive billing and settlement process into a web-based self-service electronic process that drives higher customer loyalty, enhances customer satisfaction, and improves operational efficiencies, while also preserving our natural resources.
+
+**Responsibilities:**
+- Act as Lead for offshore Team members.
+- Worked on Page Composer, Multi Invoice Types, Advance Consolidation, Polymorphic Domain Objects, Dynamic Grouping, and Extract.
+- Involved in Requirement Gathering, Design Discussions with Architecture team and  Implementation for the above features.
+- Acted as Subject Matter Expert for the above features.
+- Implemented new features through complete Product Development lifecycle.
+
+**Duration:** Oct 2007 – Till Date
+
+**Team Size:** 25
+
+**Clients:** HP, Dell, Xerox, BCBS Florida, Sun Trust, Health Partners
+
+**Technologies:**
+Java Enterprise (Proprietary Framework and Architecture), JDBC, Servlets, Ant, XML/XSL, AJAX, JavaScript, JUnit, JBoss, Tomcat, Oracle 10g, MS SQL 2005, DB2, Windows XP, Solaris, UNIX, Eclipse, Perforce.
 
 ### Globallogic Inc, Vienna, USA
-Lead Engineering (Oct 2004 – Sep 2007)
-Project: Avolent (formerly Bizcast) The Financial Relationship Management Product (FRM)
-Description:
-Avolent, a product of Avolent Inc, San Francisco, USA, is the enterprise software solution for Financial
-Relationship Management (FRM) on the market to deliver the three C's: Cost Reduction, improved Cash
-Management and Forecasting, and improved Customer Care.
-Responsibilities:
-▪ Key member of the core Product Development team.
-▪ Worked on Consolidation, Extract, Reporting, Upgrade and Internationalization.
-▪ Involved in Requirement Gathering, Design Discussions with Architecture team and 
-Implementation for the above features.
-▪ Acted as Subject Matter Expert for the above features.
-▪ Implemented new features through complete Product Development lifecycle.
-Duration: Oct 2004 – Sep 2007
-Team Size: 40
-Technologies:
-Java Enterprise (Proprietary Framework and Architecture), JDBC, Servlets, Ant, XML/XSL, AJAX,
-JavaScript, JUnit, JBoss, Tomcat, Oracle 10g, MS SQL 2005, DB2, Windows XP, Solaris, UNIX,
-Eclipse, Perforce.
+*Lead Engineering (Oct 2004 – Sep 2007)*
+
+**Project:** Avolent (formerly Bizcast) The Financial Relationship Management Product (FRM)
+
+**Description:**
+Avolent, a product of Avolent Inc, San Francisco, USA, is the enterprise software solution for Financial Relationship Management (FRM) on the market to deliver the three C's: Cost Reduction, improved Cash Management and Forecasting, and improved Customer Care.
+
+**Responsibilities:**
+- Key member of the core Product Development team.
+- Worked on Consolidation, Extract, Reporting, Upgrade and Internationalization.
+- Involved in Requirement Gathering, Design Discussions with Architecture team and implementation for the above features.
+- Acted as Subject Matter Expert for the above features.
+- Implemented new features through complete Product Development lifecycle.
+
+**Duration:** Oct 2004 – Sep 2007
+
+**Team Size:** 40
+
+**Technologies:**
+Java Enterprise (Proprietary Framework and Architecture), JDBC, Servlets, Ant, XML/XSL, AJAX, JavaScript, JUnit, JBoss, Tomcat, Oracle 10g, MS SQL 2005, DB2, Windows XP, Solaris, UNIX, Eclipse, Perforce.
 
 ### Sun Microsystems, Bangalore, India 
-Member Technical Staff (Jul 2004 – Sep 2004) 
-Project: Sun Java Enterprise System 
-Description:
-The Sun Java Enterprise System is a complete platform for enterprise application development. It includes
-enterprise server applications such as Sun ONE Directory Server, Sun ONE Identity Server, Sun ONE Portal
-Server, Sun ONE Application Server and the Sun Java System Studio.
-Responsibilities:
-▪ Member of the core Product Packaging team.
-▪ Responsible for the enhancement and maintenance of the existing proprietary
-framework for packaging applications to install on Windows, Unix/Linux and Solaris
-environments.
-Duration: Jul 2004 – Sep 2004
-Team Size: 12
-Technologies:
-Java, Proprietary Packaging Framework, Ant, XML, Sun One App Server, Windows XP, Solaris, 
-Linux, Netbeans, CVS, Sun Java Enterprise Studio.
+*Member Technical Staff (Jul 2004 – Sep 2004)*
 
-### Infosys Technologies Ltd. Bangalore, India Software Engineer (Jan 2003 – Jun 2004) 
-Project: ProjectOne
-Description:
-The ProjectOne application is utilized by Citi Bank worldwide for maintenance and generation of customer
-account reports in order to provide detailed transactional and operational details. This application provides
-the customers with multi-lingual report facilities and helps in fulfilling the customer’s requirements for
-different kinds of report. Citi Bank currently uses the application internally.
-Responsibilities:
-▪ Design and Implementation of the new features.
-▪ Maintenance and Bug fixing for the existing application.
-Duration: Mar 2003 – Jun 2004
-Team Size: 40+
-Client: Citibank International Ltd.
-Technologies:
+**Project:** Sun Java Enterprise System 
+
+**Description:**
+The Sun Java Enterprise System is a complete platform for enterprise application development. It includes enterprise server applications such as Sun ONE Directory Server, Sun ONE Identity Server, Sun ONE Portal Server, Sun ONE Application Server and the Sun Java System Studio.
+
+**Responsibilities:**
+- Member of the core Product Packaging team.
+- Responsible for the enhancement and maintenance of the existing proprietary framework for packaging applications to install on Windows, Unix/Linux and Solaris environments.
+
+**Duration:** Jul 2004 – Sep 2004
+
+**Team Size:** 12
+
+**Technologies:**
+Java, Proprietary Packaging Framework, Ant, XML, Sun One App Server, Windows XP, Solaris, Linux, Netbeans, CVS, Sun Java Enterprise Studio.
+
+### Infosys Technologies Ltd. Bangalore, India
+*Software Engineer (Jan 2003 – Jun 2004)* 
+
+**Project:** ProjectOne
+
+**Description:**
+The ProjectOne application is utilized by Citi Bank worldwide for maintenance and generation of customer account reports in order to provide detailed transactional and operational details. This application provides the customers with multi-lingual report facilities and helps in fulfilling the customer’s requirements for different kinds of report. Citi Bank currently uses the application internally.
+
+**Responsibilities:**
+- Design and Implementation of the new features.
+- Maintenance and Bug fixing for the existing application.
+
+**Duration:** Mar 2003 – Jun 2004
+
+**Team Size:** 40+
+
+**Client:** Citibank International Ltd.
+
+**Technologies:**
 EJB, JSP, Servlets, Struts, Ant, XML, BEA Weblogic Application Server, 6.3, Oracle.
 
 ### Tele Atlas (India) Pvt. Ltd. Noida, India Software
-Developer Trainee (Sep 2002 – Dec 2002) Project: 
-REACT
-Description:
-The REACT system provides an interface, which assists in tracking defects in the database system 
-containing digital map data, which is used by GIS applications in In-Car Navigation systems for providing 
-real-time data to the user regarding navigation and traffic conditions. The application provides secure 
-access through a login mechanism, thus providing an interface based on the rights assigned to the user. 
-Responsibilities:
-▪ Responsible for the development of “Advanced Write Query” module, as part of the 
-defect tracking system.
-Duration: Sep 2002 – Dec 2002
-Team Size: 6
-Technologies:
+*Developer Trainee (Sep 2002 – Dec 2002)*
+
+**Project:** REACT
+
+**Description:**
+The REACT system provides an interface, which assists in tracking defects in the database system containing digital map data, which is used by GIS applications in In-Car Navigation systems for providing real-time data to the user regarding navigation and traffic conditions. The application provides secure access through a login mechanism, thus providing an interface based on the rights assigned to the user. 
+
+**Responsibilities:**
+- Responsible for the development of “Advanced Write Query” module, as part of the defect tracking system.
+
+**Duration:** Sep 2002 – Dec 2002
+
+**Team Size:** 6
+
+**Technologies:**
 Java 2, RMI, JDBC, JSP, Informix, Netscape Iplanet Server, CVS.
 
 ## Projects developed during academic period
 ### R Systems International Limited, Noida, India
-Software Trainee (Jan 2002 – Jul 2002)
-Project: Demonstrator – A System for Platform Independent Demonstration over a Network
-Description:
-Demonstrator is a client/server application designed to be run on any platform that supports the Java 2 
-runtime environment. The application allows the users to give demonstration of working of any software. 
-The demonstration can be given at the client side or on a remote machine. The server application allows 
-multiple clients to connect to it and provides a GUI for administration. It also logs all the requests. The 
-client application allows a user to login on the server and either start a demonstration or join an existing 
-demonstration. It provides a GUI built using Swing.
-Responsibilities:
-▪ Responsible for the design and development of the client and server application.
-Duration: Jan 2002 – Jul 2002
-Team Size: 2
-Technologies:
+*Software Trainee (Jan 2002 – Jul 2002)*
+
+**Project:** Demonstrator – A System for Platform Independent Demonstration over a Network
+
+**Description:**
+Demonstrator is a client/server application designed to be run on any platform that supports the Java 2 runtime environment. The application allows the users to give demonstration of working of any software. The demonstration can be given at the client side or on a remote machine. The server application allows multiple clients to connect to it and provides a GUI for administration. It also logs all the requests. The client application allows a user to login on the server and either start a demonstration or join an existing  demonstration. It provides a GUI built using Swing.
+
+**Responsibilities:**
+- Responsible for the design and development of the client and server application.
+
+**Duration:** Jan 2002 – Jul 2002
+
+**Team Size:** 2
+
+**Technologies:**
 Java 2, RMI, JDBC, Swing, Oracle.
 
 ### Sun Microsystems Java 2 Certification Developer Assignment. 
-Project: Fly By Night Services
-Description:
-Fly By Night Services is a 3-tiered application, designed to be run on any platform that supports the Java 2
-runtime environment. The server application allows multiple clients to connect to it. The server allows for
-record level locking on a flat file database system and provides a GUI for administration. It also logs all the
-requests. The client can be run in Networked and Non-Networked mode. It allows for performing search
-based on the criteria specified and reserving seats on the search results..
-Responsibilities:
-▪ Responsible for the design and development of the application.
-Team Size: 1
-Technologies:
+**Project:** Fly By Night Services
+
+**Description:**
+Fly By Night Services is a 3-tiered application, designed to be run on any platform that supports the Java 2 runtime environment. The server application allows multiple clients to connect to it. The server allows for record level locking on a flat file database system and provides a GUI for administration. It also logs all the requests. The client can be run in Networked and Non-Networked mode. It allows for performing search based on the criteria specified and reserving seats on the search results.
+
+**Responsibilities:**
+- Responsible for the design and development of the application.
+
+**Team Size:** 1
+
+**Technologies:**
 Java 2, RMI, JDBC, Swing.
 
 # Achievements and Awards
-▪ Stood second in the Day Programming competition held at infoXpression 2001, Annual
-National Student’s IT meet, organized by School Of Information Technology, GGS
-Indraprastha University, Delhi, India.
+- Stood second in the Day Programming competition held at infoXpression 2001, Annual National Student’s IT meet, organized by School Of Information Technology, GGS Indraprastha University, Delhi, India.
 
 # Extra-Curricular Activities
-▪ Modding retro game consoles for RGB and various other mods.
-▪ Tinkering and creating small projects for my daughter on Raspberry Pi and Arduino.
-▪ Assembling and flying electric RC Helicopters. Presently researching on the Nitro models.
-▪ Playing Table Tennis, Cricket and watching Formula 1
+- Modding retro game consoles for RGB and various other mods.
+- Tinkering and creating small projects for my daughter on Raspberry Pi and Arduino.
+- Assembling and flying electric RC Helicopters. Presently researching on the Nitro models.
+- Playing Table Tennis, Cricket and watching Formula 1
