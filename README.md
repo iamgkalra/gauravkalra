@@ -27,43 +27,60 @@ Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Cli
 - **Certified by Brainbench in C (score: 74%), Java 2 (score: 82%), Java 2 Non GUI (score: 83%)**
 
 # Technical/Functional Skills
-Operating Systems/Platforms Windows, Unix, Linux
-Programming Languages Java, C, C++, Pascal
-Scripting Languages Unix Shell Scripting, Perl, PHP, JavaScript, AJAX, HTML, CSS
-Java Technologies
-Microservices/Cloud 
-Technlogies 
-Grammar
-XML Technologies
-Databases
-Software Architecture
-Java Enterprise (J2EE), EJB, Servlets, JSP, JDBC, Threads, 
-Concurrent, Collections, Web Services, JavaBeans, Junit, 
-JAXP, RMI, Struts, Ant
-Oracle Cloud, Docker, Kubernetes, GRPC, Open Tracing, 
-Jaeger, Netty, Kafka, ORDS, CI/CD, Kibana
-ANTLR Lexer and Parser, AST
-XML, XSLT, SAX/DOM Parsers, DTD, Xpath, XSD
-Oracle 12C, MS SQL Server, IBM DB2, MySQL, miniSQL, hSQL, 
-MS Access
-OOP (Object Oriented Programming), OOD (Object Oriented
-Design), Micro Services, Object Oriented Patterns, ORM 
-frameworks, Database Design including E.F. Codd's Third 
-Normal Form (3NF), Entity Relationship Diagrams (ERD), 
-Application Frameworks architecture based on Meta Data 
-Model and
-Development Tools
-Application Servers
-Source Control
-Functional Domain
-Multi Tier architecture
-IBM Eclipse, Oracle SQL Plus, Oracle SQL Developer, Turbo C/C
-++/Pascal, OWASP, CheckStyle, Junit, Mockito, Hudson, 
-Jenkins, GitLab
-Apache Tomcat Web Server, JBoss Application Server, Oracle
-BEA Weblogic Application Server
-CVS, SVN, Perforce, GIT
-Banking and Financial Sector
+<table>
+  <tr>
+    <td>Operating Systems/Platforms</td>
+    <td>Windows, Unix, Linux</td>
+  </tr>
+  <tr>
+    <td>Programming Languages</td>
+    <td>Java, C, C++, Pascal</td>
+  </tr>
+  <tr>
+    <td>Scripting Languages Unix</td>
+    <td>Shell Scripting, Perl, PHP, JavaScript, AJAX, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>Java Technologies</td>
+    <td>Java Enterprise (J2EE), EJB, Servlets, JSP, JDBC, Threads, Concurrent, Collections, Web Services, JavaBeans, Junit, JAXP, RMI, Struts, Ant</td>
+  </tr>
+  <tr>
+    <td>Microservices/Cloud Technlogies</td>
+    <td>Oracle Cloud, Docker, Kubernetes, GRPC, Open Tracing, Jaeger, Netty, Kafka, ORDS, CI/CD, Kibana</td>
+  </tr>
+  <tr>
+    <td>Grammar</td>
+    <td>ANTLR Lexer and Parser, AST</td>
+  </tr>
+  <tr>
+    <td>XML Technologies</td>
+    <td>XML, XSLT, SAX/DOM Parsers, DTD, Xpath, XSD</td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>Oracle 12C, MS SQL Server, IBM DB2, MySQL, miniSQL, hSQL, MS Access</td>
+  </tr>
+  <tr>
+    <td>Software Architecture</td>
+    <td>OOP (Object Oriented Programming), OOD (Object Oriented Design), Micro Services, Object Oriented Patterns, ORM frameworks, Database Design including E.F. Codd's Third Normal Form (3NF), Entity Relationship Diagrams (ERD), Application Frameworks architecture based on Meta Data Model and Multi Tier architecture</td>
+  </tr>
+  <tr>
+    <td>Development Tools</td>
+    <td>IBM Eclipse, Oracle SQL Plus, Oracle SQL Developer, Turbo C/C++/Pascal, OWASP, CheckStyle, Junit, Mockito, Hudson, Jenkins, GitLab</td>
+  </tr>
+  <tr>
+    <td>Application Servers</td>
+    <td>Apache Tomcat Web Server, JBoss Application Server, Oracle BEA Weblogic Application Server</td>
+  </tr>
+  <tr>
+    <td>Source Control</td>
+    <td>CVS, SVN, Perforce, GIT</td>
+  </tr>
+  <tr>
+    <td>Functional Domain</td>
+    <td>Banking and Financial Sector</td>
+  </tr>
+</table>
 
 # Projects
 ## Oracle Inc, San Francisco, CA, USA
