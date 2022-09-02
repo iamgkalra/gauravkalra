@@ -1,5 +1,5 @@
-# Gaurav Kalra
-(415) 606-3592 ▪ gkalra2002@yahoo.com ▪ https://www.linkedin.com/in/gaurav-kalra-72960b3
+<h3 align="center">Gaurav Kalra</h3>
+<p align="center">(415) 606-3592 ▪ gkalra2002@yahoo.com ▪ https://www.linkedin.com/in/gaurav-kalra-72960b3</p>
 
 # Interests
 Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Client-Server Architecture, Multi-Threading, Databases
@@ -14,10 +14,10 @@ Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Cli
 
 # Education
 - **MCA (1999 – 2002) (Percentage: 80.5%, GPA: 4.0/5.0)**
-University School of Studies (Main Campus), GGS Indraprastha University, Delhi
+<br/>University School of Studies (Main Campus), GGS Indraprastha University, Delhi
 
 - **B.Sc. (G) Computer Science (1996 – 1999) (Percentage: 64.5%)**
-Maharaja Agrasen College, Delhi University, Delhi
+<br/>Maharaja Agrasen College, Delhi University, Delhi
 
 - **Diploma in Network centered computing from NIIT (Grade: A)**
 
