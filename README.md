@@ -85,20 +85,27 @@ Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Cli
 # Projects
 ### Oracle Inc, San Francisco, CA, USA
 *Principal Software Engineer (Nov 2008 – Till Date)*
-<br/>**Project:** Oracle Utilities Cloud Platform
-<br/>**Description:**
+
+**Project:** Oracle Utilities Cloud Platform
+
+**Description:**
 The Oracle Utilities Cloud Platform is responsible for providing an infrastructure that makes it possible to deploy the utilities micro services into the Oracle Cloud. The project provides support for managing the life cycle of maintaining, packaging, deploying and monitoring the various services that collectively form the utilities suite.
-<br/><br/>**Responsibilities:**
+
+**Responsibilities:**
 - Analyze, design, develop, troubleshoot and debug software modules that are deployed in the oracle cloud.
 - Work in an agile methodology to speed up the delivery of software.
 - Ensure distributed components are fault taulerant for highly scalable deployment in cloud and are maintainable via CI/CD pipelines
 - Build new products and development tools.
-<br/><br/>**Key Accomplishments:**
+
+**Key Accomplishments:**
 - Was able to quickly switch over from premise side development to cloud side development to support delivery of key modules like ORDS.
 - Able to adapt to the cloud side development that involved various layers or architecturally separated modules that collectively form the Oracle Utilities Suite.
-<br/><br/>**Duration:** Sep 2010 – Till Date 
-<br/>**Team Size:** 20 + 40 (offshore) 
-<br/>**Technologies:**
+
+**Duration:** Sep 2010 – Till Date 
+
+**Team Size:** 20 + 40 (offshore) 
+
+**Technologies:**
 Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Servlets, YAML, XML, AJAX, JavaScript, JUnit, Oracle Cloud DB, Eclipse, Linux, GIT, Kibana.
 
 ### Oracle Inc, San Francisco, CA, USA
