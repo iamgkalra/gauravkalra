@@ -83,33 +83,25 @@ Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Cli
 </table>
 
 # Projects
-## Oracle Inc, San Francisco, CA, USA
-Principal Software Engineer (Nov 2008 – Till Date)
-Project: Oracle Utilities Cloud Platform
-Description:
-The Oracle Utilities Cloud Platform is responsible for providing an infrastructure that makes it possible to 
-deploy the utilities micro services into the Oracle Cloud. The project provides support for managing the life 
-cycle of maintaining, packaging, deploying and monitoring the various services that collectively form the 
-utilities suite.
-Responsibilities:
-▪ Analyze, design, develop, troubleshoot and debug software modules that are deployed
-in the oracle cloud.
-▪ Work in an agile methodology to speed up the delivery of software.
-▪ Ensure distributed components are fault taulerant for highly scalable deployment in cloud
-and are maintainable via CI/CD pipelines
-▪ Build new products and development tools.
-Key Accomplishments:
-▪ Was able to quickly switch over from premise side development to cloud side
-development to support delivery of key modules like ORDS.
-▪ Able to adapt to the cloud side development that involved various layers or
-architecturally separated modules that collectively form the Oracle Utilities Suite.
-Duration: Sep 2010 – Till Date 
-Team Size: 20 + 40 (offshore) 
-Technologies:
-Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Servlets, 
-YAML, XML, AJAX, JavaScript, JUnit, Oracle Cloud DB, Eclipse, Linux, GIT, Kibana.
+### Oracle Inc, San Francisco, CA, USA
+*Principal Software Engineer (Nov 2008 – Till Date)*
+<br/>**Project:** Oracle Utilities Cloud Platform
+<br/>**Description:**
+The Oracle Utilities Cloud Platform is responsible for providing an infrastructure that makes it possible to deploy the utilities micro services into the Oracle Cloud. The project provides support for managing the life cycle of maintaining, packaging, deploying and monitoring the various services that collectively form the utilities suite.
+<br/><br/>**Responsibilities:**
+- Analyze, design, develop, troubleshoot and debug software modules that are deployed in the oracle cloud.
+- Work in an agile methodology to speed up the delivery of software.
+- Ensure distributed components are fault taulerant for highly scalable deployment in cloud and are maintainable via CI/CD pipelines
+- Build new products and development tools.
+<br/><br/>**Key Accomplishments:**
+- Was able to quickly switch over from premise side development to cloud side development to support delivery of key modules like ORDS.
+- Able to adapt to the cloud side development that involved various layers or architecturally separated modules that collectively form the Oracle Utilities Suite.
+<br/><br/>**Duration:** Sep 2010 – Till Date 
+<br/>**Team Size:** 20 + 40 (offshore) 
+<br/>**Technologies:**
+Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Servlets, YAML, XML, AJAX, JavaScript, JUnit, Oracle Cloud DB, Eclipse, Linux, GIT, Kibana.
 
-## Oracle Inc, San Francisco, CA, USA
+### Oracle Inc, San Francisco, CA, USA
 Principal Software Engineer (Nov 2008 – Till Date)
 Project: Oracle Utilities Framework
 Description:
@@ -137,7 +129,7 @@ Technologies:
 Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, 
 JUnit, Oracle 12C, Windows XP, Eclipse, Perforce.
 
-## Oracle Inc, San Francisco, CA, USA
+### Oracle Inc, San Francisco, CA, USA
 Principal Software Engineer (Nov 2008 – Till Date) 
 Project: Oracle Utilities Mobile Workforce Management
 Description:
@@ -159,7 +151,7 @@ Technologies:
 Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, 
 JUnit, Oracle 10g, Windows XP, Eclipse, Perforce.
 
-## Avolent Inc, San Francisco, CA, USA
+### Avolent Inc, San Francisco, CA, USA
 Sr. Software Engineer (Oct 2007 – Sep 2008)
 Project: Avolent (formerly Bizcast)
 Description:
@@ -184,7 +176,7 @@ Java Enterprise (Proprietary Framework and Architecture), JDBC, Servlets, Ant, X
 JavaScript, JUnit, JBoss, Tomcat, Oracle 10g, MS SQL 2005, DB2, Windows XP, Solaris, UNIX,
 Eclipse, Perforce.
 
-## Globallogic Inc, Vienna, USA
+### Globallogic Inc, Vienna, USA
 Lead Engineering (Oct 2004 – Sep 2007)
 Project: Avolent (formerly Bizcast) The Financial Relationship Management Product (FRM)
 Description:
@@ -205,7 +197,7 @@ Java Enterprise (Proprietary Framework and Architecture), JDBC, Servlets, Ant, X
 JavaScript, JUnit, JBoss, Tomcat, Oracle 10g, MS SQL 2005, DB2, Windows XP, Solaris, UNIX,
 Eclipse, Perforce.
 
-## Sun Microsystems, Bangalore, India 
+### Sun Microsystems, Bangalore, India 
 Member Technical Staff (Jul 2004 – Sep 2004) 
 Project: Sun Java Enterprise System 
 Description:
@@ -223,7 +215,7 @@ Technologies:
 Java, Proprietary Packaging Framework, Ant, XML, Sun One App Server, Windows XP, Solaris, 
 Linux, Netbeans, CVS, Sun Java Enterprise Studio.
 
-## Infosys Technologies Ltd. Bangalore, India Software Engineer (Jan 2003 – Jun 2004) 
+### Infosys Technologies Ltd. Bangalore, India Software Engineer (Jan 2003 – Jun 2004) 
 Project: ProjectOne
 Description:
 The ProjectOne application is utilized by Citi Bank worldwide for maintenance and generation of customer
@@ -239,7 +231,7 @@ Client: Citibank International Ltd.
 Technologies:
 EJB, JSP, Servlets, Struts, Ant, XML, BEA Weblogic Application Server, 6.3, Oracle.
 
-## Tele Atlas (India) Pvt. Ltd. Noida, India Software
+### Tele Atlas (India) Pvt. Ltd. Noida, India Software
 Developer Trainee (Sep 2002 – Dec 2002) Project: 
 REACT
 Description:
