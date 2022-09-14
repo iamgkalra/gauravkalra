@@ -1,10 +1,10 @@
 <h3 align="center">Gaurav Kalra</h3>
 <p align="center">(415) 606-3592 ▪ gkalra2002@yahoo.com ▪ https://www.linkedin.com/in/gaurav-kalra-72960b3</p>
 
-# Interests
+# PROFILE SUMMARY
 Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Client-Server Architecture, Multi-Threading, Databases
 
-# Work Experience
+# WORK EXPERIENCE
 **Oracle Inc.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Nov 2008 – Presently**<br/>
@@ -97,19 +97,15 @@ Java 2, RMI, JDBC, JSP, Informix, Netscape Iplanet Server, CVS.
 **Technologies:**
 Java 2, RMI, JDBC, Swing, Oracle.
 
-# Achievements and Awards
+# ACHIEVEMENTS AND AWARDS
 - Stood second in the Day Programming competition held at infoXpression 2001, Annual National Student’s IT meet, organized by School Of Information Technology, GGS Indraprastha University, Delhi, India.
 
-# Education
-- **MCA (1999 – 2002) (Percentage: 80.5%, GPA: 4.0/5.0)**
-<br/>University School of Studies (Main Campus), GGS Indraprastha University, Delhi
-
-- **B.Sc. (G) Computer Science (1996 – 1999) (Percentage: 64.5%)**
-<br/>Maharaja Agrasen College, Delhi University, Delhi
-
+# EDUCATION
+- **MCA (1999 – 2002) (Percentage: 80.5%, GPA: 4.0/5.0)** University School of Studies (Main Campus), GGS Indraprastha University, Delhi
+- **B.Sc. (G) Computer Science (1996 – 1999) (Percentage: 64.5%)** Maharaja Agrasen College, Delhi University, Delhi
 - **Diploma in Network centered computing from NIIT (Grade: A)**
 
-# Extra-Curricular Activities
+# EXTRA-CURRICULAR ACTIVITIES
 - Modding retro game consoles for RGB and various other mods.
 - Tinkering and creating small projects for my daughter on Raspberry Pi and Arduino.
 - Assembling and flying electric RC Helicopters. Presently researching on the Nitro models.
