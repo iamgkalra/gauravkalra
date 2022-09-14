@@ -10,6 +10,7 @@ Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Cli
 **Nov 2008 – Presently**<br/>
 *Software Architect*<br/>
 **Responsibilities:**<br/>
+
 - Analyze, design, develop, troubleshoot and debug software modules that are deployed in the oracle cloud.
 - Work in an agile methodology to speed up the delivery of software.
 - Ensure distributed components are fault taulerant for highly scalable deployment in cloud and are maintainable via CI/CD pipelines
@@ -20,13 +21,16 @@ Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Cli
 - Build new products and development tools.
 - Act as the designer for the Dispatching framework and interface.
 - Involved in integrating utilities framework with Oracle ADF.
-- Working and coordinating with the offshore team to develop the required functionality.
+- Working and coordinating with the offshore team to develop the required functionality.<br/>
+
 **Key Accomplishments:**<br/>
+
 * Was able to quickly switch over from premise side development to cloud side development to support delivery of key modules like ORDS.
 * Able to adapt to the cloud side development that involved various layers or architecturally separated modules that collectively form the Oracle Utilities Suite.
 * Part of a small Cobol to Java Translation team responsible for translating 10 million lines of cobol code and single handedly wrote the parser for processing and translating Cobol records and copybooks to corresponding java storage classes.
 * Worked on various stages of Cobol to Java Translation to help in preprocessing, instrumenting, gathering, storing and verifying cobol and the corresponding translated cobol to java code execution line by line.
-* Single handedly wrote a complete Gantt chart component from scratch in 3 weeks for monitoring and dispatching tasks created for mobile workforce.
+* Single handedly wrote a complete Gantt chart component from scratch in 3 weeks for monitoring and dispatching tasks created for mobile workforce.<br/>
+
 **Technologies:**<br/>
 Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Servlets, YAML, XML, AJAX, JavaScript, JUnit, Oracle Cloud DB, Eclipse, Linux, GIT, Kibana, Oracle 10g, Perforce.
 
@@ -35,6 +39,7 @@ Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Se
 **Oct 2007 – Sep 2008**<br/>
 *Sr. Software Engineer*<br/>
 **Responsibilities:**<br/>
+
 + Act as Lead for offshore Team members.
 + Worked on Page Composer, Multi Invoice Types, Advance Consolidation, Polymorphic Domain Objects, Dynamic Grouping, and Extract.
 + Involved in Requirement Gathering, Design Discussions with Architecture team and  Implementation for the above features.
