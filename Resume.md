@@ -5,156 +5,57 @@
 Data Loading & Extraction, Enterprise Applications, Web Systems, Algorithms, Client-Server Architecture, Multi-Threading, Databases
 
 # Work Experience
-- *Software Architect* – **Oracle Inc.**, Pleasanton (Nov 2008 – Presently)
-- *Sr. Software Engineer* - **Avolent Inc.**, San Francisco (Oct 2007 – Sep 2008)
-- *Lead Engineering* - **Globallogic Inc**, Vienna (Oct 2004 – Sep 2007)
-- *Member Technical Staff* - **Sun Microsystems**, Bangalore (Jul 2004 – Sep 2004)
-- *Software Engineer* - **Infosys Technologies Ltd.**, Bangalore (Jan 2003 – Jun 2004)
-- *Software Developer Trainee* - **Tele Atlas. Noida (World leader in Digital Map solutions)** (Sep 2002 – Dec 2002)
-
-# Education
-- **MCA (1999 – 2002) (Percentage: 80.5%, GPA: 4.0/5.0)**
-<br/>University School of Studies (Main Campus), GGS Indraprastha University, Delhi
-
-- **B.Sc. (G) Computer Science (1996 – 1999) (Percentage: 64.5%)**
-<br/>Maharaja Agrasen College, Delhi University, Delhi
-
-- **Diploma in Network centered computing from NIIT (Grade: A)**
-
-# Certifications
-- **Sun Certified Developer for the Java 2 Platform (SCJD) (score: 147/155 ≈ 95%)**
-- **Sun Certified Programmer for the Java 2 Platform (SCJP) (score: 54/59 ≈ 91%)**
-- **Certified by Brainbench in C (score: 74%), Java 2 (score: 82%), Java 2 Non GUI (score: 83%)**
-
-# Technical/Functional Skills
-<table>
-  <tr>
-    <td>Operating Systems/Platforms</td>
-    <td>Windows, Unix, Linux</td>
-  </tr>
-  <tr>
-    <td>Programming Languages</td>
-    <td>Java, C, C++, Pascal</td>
-  </tr>
-  <tr>
-    <td>Scripting Languages Unix</td>
-    <td>Shell Scripting, Perl, PHP, JavaScript, AJAX, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td>Java Technologies</td>
-    <td>Java Enterprise (J2EE), EJB, Servlets, JSP, JDBC, Threads, Concurrent, Collections, Web Services, JavaBeans, Junit, JAXP, RMI, Struts, Ant</td>
-  </tr>
-  <tr>
-    <td>Microservices/Cloud Technlogies</td>
-    <td>Oracle Cloud, Docker, Kubernetes, GRPC, Open Tracing, Jaeger, Netty, Kafka, ORDS, CI/CD, Kibana</td>
-  </tr>
-  <tr>
-    <td>Grammar</td>
-    <td>ANTLR Lexer and Parser, AST</td>
-  </tr>
-  <tr>
-    <td>XML Technologies</td>
-    <td>XML, XSLT, SAX/DOM Parsers, DTD, Xpath, XSD</td>
-  </tr>
-  <tr>
-    <td>Databases</td>
-    <td>Oracle 12C, MS SQL Server, IBM DB2, MySQL, miniSQL, hSQL, MS Access</td>
-  </tr>
-  <tr>
-    <td>Software Architecture</td>
-    <td>OOP (Object Oriented Programming), OOD (Object Oriented Design), Micro Services, Object Oriented Patterns, ORM frameworks, Database Design including E.F. Codd's Third Normal Form (3NF), Entity Relationship Diagrams (ERD), Application Frameworks architecture based on Meta Data Model and Multi Tier architecture</td>
-  </tr>
-  <tr>
-    <td>Development Tools</td>
-    <td>IBM Eclipse, Oracle SQL Plus, Oracle SQL Developer, Turbo C/C++/Pascal, OWASP, CheckStyle, Junit, Mockito, Hudson, Jenkins, GitLab</td>
-  </tr>
-  <tr>
-    <td>Application Servers</td>
-    <td>Apache Tomcat Web Server, JBoss Application Server, Oracle BEA Weblogic Application Server</td>
-  </tr>
-  <tr>
-    <td>Source Control</td>
-    <td>CVS, SVN, Perforce, GIT</td>
-  </tr>
-  <tr>
-    <td>Functional Domain</td>
-    <td>Banking and Financial Sector</td>
-  </tr>
-</table>
-
-# Projects
-### Oracle Inc, San Francisco, CA, USA
-*Software Architect (Nov 2008 – Till Date)*
-
-**Project:** Oracle Utilities Cloud Platform
-
-**Description:**
-The Oracle Utilities Cloud Platform is responsible for providing an infrastructure that makes it possible to deploy the utilities micro services into the Oracle Cloud. The project provides support for managing the life cycle of maintaining, packaging, deploying and monitoring the various services that collectively form the utilities suite.
-
+**Oracle Inc.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Nov 2008 – Presently**<br/>
+*Software Architect*
 **Responsibilities:**
 - Analyze, design, develop, troubleshoot and debug software modules that are deployed in the oracle cloud.
 - Work in an agile methodology to speed up the delivery of software.
 - Ensure distributed components are fault taulerant for highly scalable deployment in cloud and are maintainable via CI/CD pipelines
 - Build new products and development tools.
-
-**Key Accomplishments:**
-- Was able to quickly switch over from premise side development to cloud side development to support delivery of key modules like ORDS.
-- Able to adapt to the cloud side development that involved various layers or architecturally separated modules that collectively form the Oracle Utilities Suite.
-
-**Duration:** Sep 2010 – Till Date 
-
-**Team Size:** 20 + 40 (offshore) 
-
-**Technologies:**
-Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Servlets, YAML, XML, AJAX, JavaScript, JUnit, Oracle Cloud DB, Eclipse, Linux, GIT, Kibana.
-
-### Oracle Inc, San Francisco, CA, USA
-*Principal Software Engineer (Nov 2008 – Till Date)*
-
-**Project:** Oracle Utilities Framework
-
-**Description:**
-The Oracle Utilities Framework team provides the framework, tools, and technical leadership for the Tax and Utilities Global Business Unit on which the following products are built: Customer Care & Billing, Enterprise Taxation Management, Mobile Workforce Management and Meter Data Management. The framework application is rich in both the server-side J2EE layer and a robust AJAX front-end.
-
-**Responsibilities:**
 - Analyze, design, develop, troubleshoot and debug software programs for commercial end user applications.
 - Specify, design and implement modest changes to existing software architecture.
 - Adapt existing premise architecture to deployment in cloud for highly scalable, distributed components that are fault taulerant and maintainable via CI/CD pipelines
 - Build new products and development tools.
-
-**Key Accomplishments:**
-- Part of a small Cobol to Java Translation team responsible for translating 10 million lines of cobol code and single handedly wrote the parser for processing and translating Cobol records and copybooks to corresponding java storage classes.
-- Worked on various stages of Cobol to Java Translation to help in preprocessing, instrumenting, gathering, storing and verifying cobol and the corresponding translated cobol to java code execution line by line.
-
-**Duration:** Sep 2010 – Till Date 
-
-**Team Size:** 10 + 100 (offshore)
-
-**Technologies:**
-Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, JUnit, Oracle 12C, Windows XP, Eclipse, Perforce.
-
-### Oracle Inc, San Francisco, CA, USA
-*Principal Software Engineer (Nov 2008 – Till Date)* 
-
-**Project:** Oracle Utilities Mobile Workforce Management
-
-**Description:**
-Oracle Utilities Mobile Workforce Management (formerly SPL Mobile Workforce Management) is an integrated, end-to-end solution that guarantees service availability and automates field operations via state-of-the-market dispatch, scheduling and routing. Mobile Workforce Management optimizes the service chain, improves workforce productivity and reduces operating expenses while eliminating missed appointments, service backlogs and overtime costs.
-
-**Responsibilities:**
 - Act as the designer for the Dispatching framework and interface.
 - Involved in integrating utilities framework with Oracle ADF.
 - Working and coordinating with the offshore team to develop the required functionality.
-
 **Key Accomplishments:**
+- Was able to quickly switch over from premise side development to cloud side development to support delivery of key modules like ORDS.
+- Able to adapt to the cloud side development that involved various layers or architecturally separated modules that collectively form the Oracle Utilities Suite.
+- Part of a small Cobol to Java Translation team responsible for translating 10 million lines of cobol code and single handedly wrote the parser for processing and translating Cobol records and copybooks to corresponding java storage classes.
+- Worked on various stages of Cobol to Java Translation to help in preprocessing, instrumenting, gathering, storing and verifying cobol and the corresponding translated cobol to java code execution line by line.
 - Single handedly wrote a complete Gantt chart component from scratch in 3 weeks for monitoring and dispatching tasks created for mobile workforce.
-
-**Duration:** Nov 2008 – Aug 2010
-
-**Team Size:** 10 + 100 (offshore)
-
 **Technologies:**
-Java Enterprise (Proprietary Framework and Architecture), Servlets, XML, AJAX, JavaScript, JUnit, Oracle 10g, Windows XP, Eclipse, Perforce.
+Java Enterprise (Proprietary Framework and Architecture), Docker, Kubernetes, Servlets, YAML, XML, AJAX, JavaScript, JUnit, Oracle Cloud DB, Eclipse, Linux, GIT, Kibana, Oracle 10g, Perforce.
+
+**Avolent Inc.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Oct 2007 – Sep 2008**<br/>
+*Sr. Software Engineer*
+
+**Globallogic Inc**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Oct 2004 – Sep 2007**<br/>
+*Lead Engineering*
+
+**Sun Microsystems**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Jul 2004 – Sep 2004**<br/>
+*Member Technical Staff*
+
+**Infosys Technologies Ltd.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Jan 2003 – Jun 2004**<br/>
+*Software Engineer*
+
+**Tele Atlas. Noida (World leader in Digital Map solutions)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Sep 2002 – Dec 2002**<br/>
+*Software Developer Trainee*
+
+
 
 ### Avolent Inc, San Francisco, CA, USA
 *Sr. Software Engineer (Oct 2007 – Sep 2008)*
@@ -295,6 +196,15 @@ Java 2, RMI, JDBC, Swing.
 
 # Achievements and Awards
 - Stood second in the Day Programming competition held at infoXpression 2001, Annual National Student’s IT meet, organized by School Of Information Technology, GGS Indraprastha University, Delhi, India.
+
+# Education
+- **MCA (1999 – 2002) (Percentage: 80.5%, GPA: 4.0/5.0)**
+<br/>University School of Studies (Main Campus), GGS Indraprastha University, Delhi
+
+- **B.Sc. (G) Computer Science (1996 – 1999) (Percentage: 64.5%)**
+<br/>Maharaja Agrasen College, Delhi University, Delhi
+
+- **Diploma in Network centered computing from NIIT (Grade: A)**
 
 # Extra-Curricular Activities
 - Modding retro game consoles for RGB and various other mods.
