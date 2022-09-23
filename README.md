@@ -1,1 +1,1 @@
-**Read about me here** https://github.com/iamgkalra/gauravkalra/blob/main/Gaurav%20Kalra%20-%20Resume.pdf
+**Read about me here** <A href="https://github.com/iamgkalra/gauravkalra/blob/main/Gaurav%20Kalra.pdf">Gaurav Kalra</A>
